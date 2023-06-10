@@ -1,0 +1,6 @@
+killall binary-rate-alg.sh*
+killall maptperf
+rm nohup.out
+rm ratetest.log
+rm rate.csv
+
